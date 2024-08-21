@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakdas" alt="ronakdas" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Amazon Clone**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
